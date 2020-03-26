@@ -1,2 +1,0 @@
-# FEWDFINALJON
-Created with CodeSandbox
